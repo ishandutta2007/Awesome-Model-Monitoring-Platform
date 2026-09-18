@@ -42,41 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+**Market Size & Sector Dynamics**: The AI Model Monitoring & Observability market is estimated at **$3.31 Billion in 2026** (projected to reach $20.52 Billion by 2035 at a 22.5% CAGR). The sector is currently **highly fragmented**, featuring specialized point solutions alongside cloud infrastructure providers and traditional APM platforms.
 
-
-- **[Arize AI](https://arize.com/)**  
-
-  Leading ML and LLM observability platform focused on large-scale production monitoring, embedding drift, performance tracing, and root-cause analysis across tabular, text, and multimodal models.
-
-
-
-- **[Fiddler AI](https://www.fiddler.ai/)**  
-
-  AI observability and explainability platform that combines model monitoring, drift detection, performance tracking, and advanced explainability—popular in regulated industries.
-
-
-
-- **[WhyLabs](https://whylabs.ai/)**  
-
-  AI observability platform built around statistical data profiling (historically powered by the open-source whylogs library) for scalable, privacy-aware monitoring of data and models.
-
-
-
-- **[Evidently AI (Cloud)](https://www.evidentlyai.com/)**  
-
-  Hosted offering built on the popular open-source Evidently framework, providing managed dashboards, alerting, and team collaboration for ML and LLM monitoring.
-
-
-
-- **[Aporia, Arthur AI, Superwise, TruEra, Galileo AI, Monitaur](https://www.aporia.com/)**  
-
-  Additional commercial platforms covering model validation, continuous monitoring, explainability, bias detection, and governance for production ML systems.
-
-
-
-- **[Other model monitoring & AI observability platforms](https://arize.com/)**  
-
-  Solutions focused on real-time monitoring, LLM evaluation, and enterprise ML observability.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limit | Company Size / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[TruEra](https://truera.com/)** | Enterprise AI observability & LLM evaluation platform integrated into Snowflake AI Cloud. | $1,000 / month (Enterprise baseline prior to Snowflake acquisition) | 14-day free trial on cloud platform; TruLens open-source evaluation library free forever | **$60 Billion** (Acquired by Snowflake; $42.3M VC funding raised) |
+| **[Arize AI](https://arize.com/)** | ML & LLM observability platform for drift, evaluation, and root-cause tracing across model fleets. | $50 / month (AX Pro plan) | Free forever (AX Free: 25,000 trace spans/month, 1 GB storage, 15-day retention) | **$915 Million** (Acquired by Dynatrace; $131M VC funding raised) |
+| **[Fiddler AI](https://www.fiddler.ai/)** | AI observability and explainability platform combining drift detection, model monitoring & guardrails. | $0.002 / trace (Developer plan) | Free tier available (up to 1,000 traces/month trial access) | **$100 Million** total VC funding raised ($30M Series C in 2026) |
+| **[Galileo AI](https://rungalileo.io/)** | Evaluation, observability, and real-time guardrails platform for LLMs & Generative AI. | $100 / month (Pro plan billed annually, or $150/mo monthly) | Free forever (5,000 traces/month, unlimited users, unlimited custom evals) | **$68.1 Million** total VC funding raised ($45M Series B in Oct 2024) |
+| **[Arthur AI](https://www.arthur.ai/)** | Performance monitoring, explainability, and governance engine for enterprise AI models. | $60 / month (Premium plan) | Free plan ($0/mo: up to 4 use cases, 7-day data retention, unlimited seats) | **$60 Million** total VC funding raised ($42M Series B) |
+| **[WhyLabs](https://whylabs.ai/)** | Privacy-aware statistical profiling & data drift monitoring platform. | $125 / month (Historical Expert tier prior to Apple acquisition) | Free forever (Starter tier: 1 model & 5 feature profiles free; whylogs OSS free forever) | **$37 Million** valuation (Acquired by Apple; $14M VC funding raised) |
+| **[Aporia](https://www.aporia.com/)** | Model validation, monitoring, and live AI guardrail system for production ML pipelines. | $500 / month (Enterprise starter tier prior to Coralogix acquisition) | 14-day free trial (up to 10,000 predictions / 1 model on starter tier) | **$30 Million** total VC funding raised (Acquired by Coralogix; ~$8.4M ARR) |
+| **[Monitaur](https://monitaur.ai/)** | AI governance, risk management, and auditability platform for regulated enterprise sectors. | $2,000 / month (Custom enterprise baseline for regulated compliance) | 14-day guided proof-of-concept trial (no permanent self-service free tier) | **$13.2 Million** total VC funding raised ($6M Series A in May 2024) |
+| **[Superwise](https://www.superwise.ai/)** | Continuous model performance monitoring & runtime guardrail platform for ML agents. | $10 / month (Pro+ tier starter) | Free forever (Starter tier: 1 agent/dataset, basic guardrails & runtime policies) | **$4.5 Million** total VC funding raised (Acquired by Blattner Tech; ~$2.2M ARR) |
+| **[Evidently AI (Cloud)](https://www.evidentlyai.com/)** | Managed SaaS and self-hosted platform built on open-source Evidently ML evaluation framework. | $49 / month (Pro / Expert tier) | Free forever (1 user, up to 100 reports/month; core Python library 100% free open-source) | **~$1.5 Million** ARR / funding (Independent open-source framework leader) |
 
 
 
