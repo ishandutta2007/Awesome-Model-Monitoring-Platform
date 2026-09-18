@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Model-Monitoring-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Model-Monitoring-Platform?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Model-Monitoring-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Model-Monitoring-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Model-Monitoring-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Model-Monitoring-Platform" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Model-Monitoring-Platform/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,7 +56,7 @@ Whether you are deploying tabular predictive models, computer vision systems, or
 
 ## 🛠️ Open-Source GitHub Projects
 
-> *Sorted descending by GitHub star count.*
+> *Sorted descending by GitHub Stars_Count.*
 
 - 🌟 **[MLflow](https://github.com/mlflow/mlflow)** [![Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers) — Comprehensive open-source platform for the machine learning lifecycle, including experiment tracking, model registry, and production model evaluation/monitoring.
 - 🌟 **[Evidently](https://github.com/evidentlyai/evidently)** [![Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) — Leading open-source ML and LLM observability framework. Computes 100+ metrics for data drift, data quality, model performance, and generative AI evaluation with self-hosted dashboards.
@@ -86,7 +86,7 @@ Contributions are warmly welcomed! Help us keep this curated list up to date and
 1. 🍴 **Fork the Repository**
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-tool`)
 3. 📝 **Add or Edit Entries in `README.md`** (Please preserve alphabetical / star-count sorting order)
-4. 💡 **Include**: Name, repository/website link, 1–2 sentence objective summary, pricing details, or star badge.
+4. 💡 **Include**: Name, repository/website link, 1–2 sentence objective summary, pricing details, or Stars_Badge.
 5. 🚀 **Submit a Pull Request** with a brief summary of the addition.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
